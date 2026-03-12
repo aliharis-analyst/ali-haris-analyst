@@ -5,7 +5,7 @@ const projects = [
   {
     title: "Blinkit Sales Analysis",
     description: "This analytics dashboard transforms raw transactional data into a 360-degree view of retail performance, optimizing sales velocity, inventory, and supply chain efficiency. It empowers stakeholders with visual intelligence to benchmark regional growth and align product mix with real-time consumer demand.",
-    image: "src/assets/blikitSalesAnalysis.webp",
+    image: "./src/assets/blikitSalesAnalysis.webp",
     tools: ["Power BI", "SQL", "Excel","Python"],
     category: "Data Visualization",
     liveLink: "https://drive.google.com/file/d/1u6Gnkw-w0xHsU8i_db_gPacFFWQocOGo/view?usp=sharing",
@@ -14,7 +14,7 @@ const projects = [
   {
     title: "FAOSTAT Crops and livestock production",
     description: "An optimized Crops & Livestock dashboard that centralizes field productivity and financial data to drive strategic agricultural investment. It transforms complex yield and capital datasets into actionable executive summaries for real-time, data-driven decision-making.",
-    image: "src/assets/foastat.png",
+    image: "./src/assets/foastat.png",
     tools: ["Python", "Pandas","NumPy","Matplotlib","Plotly","Power BI"],
     category: "Machine Learning",
     liveLink: "https://drive.google.com/file/d/16wwZMlM74S2pH2PQBikZGY8P26UfLZXs/view",
@@ -23,7 +23,7 @@ const projects = [
   {
     title: "Road Accident Dashboard",
     description: "This dashboard transforms raw accident data into visual intelligence to identify high-risk factors and reduce traffic-related fatalities. By analyzing severity trends and seasonal patterns, it provides the data-driven insights necessary for optimizing emergency response and urban infrastructure decisions.",
-    image: "src/assets/roadAccidentDashboard.webp",
+    image: "./src/assets/roadAccidentDashboard.webp",
     tools: ["Excel","PostgreSQL" , "Power Query"],
     category: "Financial Analysis",
     liveLink: "https://drive.google.com/file/d/18f3Tz6vG1S_Rv0Z0XA80pYHBXOhRdy4X/view?usp=sharing",
@@ -32,7 +32,7 @@ const projects = [
   {
     title: "Customer Behaviour Dashboard",
     description: "This dashboard transforms raw transactional data into deep insights into purchasing patterns, demographics, and customer loyalty trends. It identifies high-value segments and engagement metrics to help businesses optimize their product mix and refine targeted marketing strategies.",
-    image: "src/assets/customerBehaviourDashboard.webp",
+    image: "./src/assets/customerBehaviourDashboard.webp",
     tools: ["Python", "SQL", "Power BI"],
     category: "Data Engineering",
     liveLink: "https://drive.google.com/file/d/1YQTcGOa_iH5z_zRBpYgF3W2nWZO6e2iD/view?usp=sharing",
