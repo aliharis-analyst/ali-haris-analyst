@@ -26,6 +26,14 @@ const projects = [
     githubLink: "https://github.com/aliharis-analyst/FAOSTAT",
   },
   {
+    title: "Income & Expense Analysis",
+    description: "This interactive Microsoft Power BI Desktop dashboard provides a clear overview of monthly income, expenses, and total savings using dynamic charts and KPI cards. It highlights spending trends, savings sources, and category-wise expenses for better financial tracking and decision-makin",
+    image: IncomeExpenseImage,
+    tools: ["Python", "Pandas","NumPy","Matplotlib","Plotly","Power BI"],
+    category: "Machine Learning",
+    liveLink:"https://drive.google.com/file/d/1sLaTB3Bhzk8K7ExgTJM7Lf3alXXf0S0f/view?usp=drive_link",
+  }
+  {
     title: "Road Accident Dashboard",
     description: "This dashboard transforms raw accident data into visual intelligence to identify high-risk factors and reduce traffic-related fatalities. By analyzing severity trends and seasonal patterns, it provides the data-driven insights necessary for optimizing emergency response and urban infrastructure decisions.",
     image: roadAccidentImage,
@@ -185,3 +193,4 @@ const Projects = () => {
 };
 
 export default Projects;
+
